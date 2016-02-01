@@ -1,5 +1,6 @@
 .DS_Store
 .g4ignore
+.vscode
 build
 dist
 dist.3p
